@@ -15,7 +15,6 @@
     "@react-navigation/bottom-tabs": "^6.6.1",
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.11.0",
-    "@types/react": "~19.2.10",
     "expo": "^55.0.5",
     "expo-build-properties": "~55.0.9",
     "expo-constants": "~55.0.7",
@@ -31,7 +30,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
-    "@types/react": "~18.3.12",
+    "@types/react": "~19.2.10",
     "typescript": "^5.3.3"
   },
   "private": true
